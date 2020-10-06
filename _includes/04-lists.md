@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Harry Potter
+* Hunger Games
+  * A Song of Ice and Fire
+  * The Hobbit
